@@ -1,0 +1,19 @@
+.letrinha{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+
+.container{
+  width: 100%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.card{
+  column-gap: 15px;
+  display: flex;
+  flex-direction: row;
+}
