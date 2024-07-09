@@ -13,6 +13,7 @@
 }
 
 .card{
+  margin-bottom: 50px;
   column-gap: 15px;
   display: flex;
   flex-direction: row;
